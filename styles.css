@@ -1,0 +1,34 @@
+body {
+	font-family: 'san-serif';
+}
+
+.inter_fact {
+	font-style: italic;
+}
+.bold_fact {
+	font-weight: bold;
+}
+.no_dots {
+	list-style: none;
+}
+.l_align {
+	padding-left: 0px;
+}
+.border1 {
+	border: solid 2px;
+	border-color: rgb(236,233,229);
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	width: 300px;
+	-webkit-box-shadow: 7px 7px 1px 1px rgb(236,233,229);
+	-moz-box-shadow: 7px 7px 1px 1px rgb(236,233,229);
+	box-shadow: 7px 7px 1px 1px rgb(236,233,229);
+}
+.border2 {
+	border: solid 2px;
+	border-color: rgb(236,233,229);
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-top: 15px;
+}
